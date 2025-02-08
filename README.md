@@ -48,9 +48,6 @@ cd e-commerce-sales-using-power-bi
 - Use filters and slicers to drill down into specific metrics.
 - Customize visuals based on business needs.
 
-## Screenshots 📸
-
-![Dashboard Preview](https://your-image-link.com)
 
 ## Contributing 🤝
 
